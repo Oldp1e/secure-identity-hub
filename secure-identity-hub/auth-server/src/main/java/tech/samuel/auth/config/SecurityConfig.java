@@ -25,6 +25,6 @@ public class SecurityConfig {
                 .anyRequest().authenticated() // 🔒 exige autenticação em tudo
             )
             .httpBasic(); // autenticação básica (usuário/senha)
-        return http.build();
+        return http.build();    
     }
 }
