@@ -14,5 +14,3 @@ Este projeto foi desenvolvido como prova de conceito para:
 - Implementar **testes unitários/integrados com JUnit** e gerar cobertura com **JaCoCo**.
 
 ---
-
-## 🏗️ Estrutura do Projeto
