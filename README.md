@@ -14,12 +14,6 @@ Este projeto é um **hub de identidade e autenticação** desenvolvido em **Java
 - **Docker/Compose** para ambientes de execução
 - **GitHub Actions** para CI/CD
 
-## Objetivo
-Este repositório foi criado para:
-1. Consolidar conhecimentos em **segurança de sistemas** e **microserviços**.
-2. Demonstrar um pipeline completo: do código em **Windows/VS Code**, build no **Linux** e deploy em containers **Docker**.
-3. Servir de **prova de conceito** para entrevistas técnicas, cobrindo tópicos como **POO, integração de APIs, autenticação moderna (OAuth2/JWT) e práticas de DevOps**.
-
 ---
 
 > ⚠️ Observação: o projeto está em evolução, começando pelo `auth-server` com autenticação básica. A próxima etapa será implementar **emissão e validação de tokens JWT** e proteger a `resource-api` com escopos de acesso.
